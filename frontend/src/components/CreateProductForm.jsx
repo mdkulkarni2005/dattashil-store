@@ -7,7 +7,10 @@ const categories = [
   "Residential Floor Plans",
   "Commercial Floor Plans",
   "Row House Floor Plans",
+  "Electrical Plan",
+  "Plumbing Plan",
   "Interior Design Floor Plan",
+  "Ceiling POP Plan",
   "Residential Layout Plan",
   "Commercial Layout Plan",
 ];
