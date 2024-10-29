@@ -7,7 +7,10 @@ const categories = [
 	{ href: "/Residential Floor Plans", name: "Residential Floor Plans", imageUrl: "/1.jpg" },
 	{ href: "/Commercial Floor Plans", name: "Commercial Floor Plans", imageUrl: "/2.jpg" },
 	{ href: "/Row House Floor Plans", name: "Row House Floor Plans", imageUrl: "/3.jpg" },
+	{ href: "/Electrical Plan", name: "Commercial Layout Plan", imageUrl: "/6.webp" },
+	{ href: "/Plumbing Plan", name: "Commercial Layout Plan", imageUrl: "/6.webp" },
 	{ href: "/Interior Design Floor Plan", name: "Interior Design Floor Plan", imageUrl: "/4.jpg" },
+	{ href: "/Ceiling POP Plan", name: "Commercial Layout Plan", imageUrl: "/6.webp" },
 	{ href: "/Residential Layout Plan", name: "Residential Layout Plan", imageUrl: "/5.webp" },
 	{ href: "/Commercial Layout Plan", name: "Commercial Layout Plan", imageUrl: "/6.webp" },
 ];
