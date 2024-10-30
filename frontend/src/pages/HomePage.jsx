@@ -10,7 +10,7 @@ const categories = [
 	{ href: "/Electrical Plan", name: "Electrical Plan", imageUrl: "/7.jpg" },
 	{ href: "/Plumbing Plan", name: "Plumbing Plan", imageUrl: "/8.jpg" },
 	{ href: "/Interior Design Floor Plan", name: "Interior Design Floor Plan", imageUrl: "/4.jpg" },
-	{ href: "/Ceiling POP Plan", name: "Ceiling POP Plann", imageUrl: "/9.jpg" },
+	{ href: "/Ceiling POP Plan", name: "Ceiling POP Plan", imageUrl: "/9.jpg" },
 	{ href: "/Residential Layout Plan", name: "Residential Layout Plan", imageUrl: "/5.webp" },
 	{ href: "/Commercial Layout Plan", name: "Commercial Layout Plan", imageUrl: "/6.webp" },
 ];
