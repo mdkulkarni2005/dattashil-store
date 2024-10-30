@@ -42,7 +42,7 @@ const HomePage = () => {
 			</div>
 
 			<div className="text-center mb-8 text-lg">
-				After The Payment, the PDF will be sent to your registered email.
+				After payment the detailed plan PDF will be shared to your email
 			</div>
 
 			<div className="text-center text-base mb-5">
