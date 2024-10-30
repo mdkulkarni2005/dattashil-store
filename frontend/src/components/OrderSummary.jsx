@@ -109,16 +109,6 @@ const OrderSummary = () => {
 					Proceed to Checkout
 				</motion.button>
 
-				<motion.button
-					className='flex w-full items-center justify-center rounded-lg bg-emerald-600 px-5 py-2.5 text-sm font-medium text-white hover:bg-emerald-700 focus:outline-none focus:ring-4 focus:ring-emerald-300'
-					whileHover={{ scale: 1.05 }}
-					whileTap={{ scale: 0.95 }}
-					onClick={() => window.location.href = 'mailto:kedarmanas171@gmail.com'}
-				>
-					Before Payment make us Mail
-				</motion.button>
-
-
 				<div className='flex items-center justify-center gap-2'>
 					<span className='text-sm font-normal text-gray-400'>or</span>
 					<Link
